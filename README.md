@@ -6,3 +6,40 @@ The system focuses on automation of conventional Campus Preparation. This system
 Bootstrap, and HTML. Database management of this system will be done with the help of MYSQL database.
 Campus Preparation automates activities of Training and placement cell and place the best coordination between student. Authorizing the student, communicating about the various exam for campus to the student community, managing the corporate relationship for inviting them for the placements as well other activities, monitoring the progress of the selection process and communicating with different users.
 
+
+
+
+
+1 Use case Diagram: Admin
+    Login
+    Add Course
+    Ranking by Exam
+    Add Exam
+    Manage Student
+    Student Result
+    Manage Course
+    Manage Exam
+    Add Student
+    View Result in graph
+    Admin
+    View Feedback
+2. Student:
+    Register
+    Login
+    Select Exam
+    All Exam
+    View Result
+    Give Feedback
+    Student
+    All Result
+3. Faculty
+    Login
+    Add Course
+    View Feedback
+    Add Exam
+    Student Result View
+    Manage Course
+    Manage Exam
+    Ranking by exam view
+    Faculty
+![image](https://github.com/atulr2200/Pre-Placement-Test/assets/130772262/21fc4b1c-3220-41a2-8de7-539e74d142d4)
