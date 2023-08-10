@@ -42,4 +42,8 @@ Campus Preparation automates activities of Training and placement cell and place
     Manage Exam
     Ranking by exam view
     Faculty
+
+
+
+   Login 
 ![image](https://github.com/atulr2200/Pre-Placement-Test/assets/130772262/21fc4b1c-3220-41a2-8de7-539e74d142d4)
